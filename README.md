@@ -9,6 +9,8 @@ REQUIREMENTS
 - Heroes of Might and Magic IV Complete
 - Heroes IV Resolution Mod
 
+Tested on the GOG version of Heroes IV Complete 3.0
+
 Resolution Mod download:
 http://h4.heroes.net.pl/uploaded/Download/H4ResMod_1.02.exe
 
