@@ -31,12 +31,18 @@ INSTALLATION
 Your Heroes IV directory should look like this:
 
 Heroes IV
+
 ├─ heroes4.exe
+
 ├─ DDRAW.dll
+
 ├─ mods
+
 │  └─ retry_auto_combat.mod
+
 └─ Data
-   └─ layers.dialog.Combat_results.h4d
+
+│    └─ layers.dialog.Combat_results.h4d
 
 4. Start Heroes IV normally.
 
